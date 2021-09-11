@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    margin: 1%;
+    padding: 1%;
+}
+
+#css {
+    background:BLACK;
+    display: table;
+    width: 100%;
+}
+
+#css ul {list-style: none;}
+
+#css ul li {display: inline;}
+
+#css ul li a {
+    font: 18px verdana, arial, tahoma, sans-serif;
+    color: #000;
+    background: red;
+    text-decoration: none;
+    float: center;
+    padding: 5px;
+    margin-left: 1px;
+}
+
+#css ul li a:hover {
+    color: white;
+    background: #000;
+
+}
